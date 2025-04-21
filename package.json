@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://joel0403.github.io/KanagamBrothers",
+  "homepage": "https://joel0403.github.io/KanagamBrothers/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
